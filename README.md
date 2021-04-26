@@ -1,0 +1,1 @@
+# JpaRelationshipsAndInheritance
